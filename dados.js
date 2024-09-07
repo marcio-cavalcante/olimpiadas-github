@@ -13,5 +13,10 @@ let dados = [
       titulo: "Rebeca Andrade",
       descricao: "Rebeca Andrade: A estrela da ginástica brasileira. Rebeca Andrade é uma ginasta artística brasileira que conquistou o coração dos brasileiros e se tornou um dos maiores nomes do esporte nacional.",
       link: "https://pt.wikipedia.org/wiki.org/wiki/Rebeca_Andrade"
+    },
+    {
+      titulo: "Tatiana Weston-Webb",
+      descricao: "Tatiana Guimarães Weston-Webb (Porto Alegre, 9 de maio de 1996) é uma surfista profissional brasileira-americana, radicado em Kauai, Havaí, que está na World Women's Championship Tour",
+      link: "https://pt.wikipedia.org/wiki/Tatiana_Weston-Webb"
     }
   ];
